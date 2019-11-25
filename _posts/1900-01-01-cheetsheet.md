@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: CheetSheet
+image: /img/hello_world.jpeg
+bigimg: /img/path.jpg
+subtitle: Quick hints
+tags: []
 comments: true
 ---
 
