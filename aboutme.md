@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Being me is a unique idea
+title: My name is Kavics. Maszat Kavics.
+subtitle: Virtual playground
 ---
-
-My name is Kavics. Maszat Kavics.
+It is just a virtual form of my ideas .. enjoy!
