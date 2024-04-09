@@ -14,7 +14,7 @@ description: Playground for kavics stuff
 url: "https://maszatkavics.github.io"
 
 # baseurl should be an empty string
-baseurl: "/aboutme"
+baseurl: ""
 
 # --- Navigation bar options --- #
 
